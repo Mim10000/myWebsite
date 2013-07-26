@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.gameInfo{
+	background:#666;
+	
+	overflow:hidden;
+	white-space: nowrap;
+	padding: 10px;
+	box-shadow: 0px 0px 20px 0px black;
+}
